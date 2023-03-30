@@ -1,3 +1,7 @@
+# Deprecated
+
+You should use the [`objc2`](https://crates.io/crates/objc2) crate instead, as it is more actively maintained.
+
 # loafjective-c
 
 `loafjective-c` is a Rust crate that allows its users to send messages to Objective C objects. It was created due to grievances that I had with the [`objc`] crate.

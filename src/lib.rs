@@ -22,6 +22,7 @@
 //! - The original crate did not have a bread pun in its name.
 
 #![no_std]
+#![deprecated = "Use the `objc2` crate instead"]
 
 #[cfg(feature = "std")]
 extern crate std;
